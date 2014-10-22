@@ -107,4 +107,4 @@ cacheSolve <- function(x, ...) {
 #       [2,]    2    4
 #       
 #       Conclusion: two functions work well.
-
+#
