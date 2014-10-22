@@ -106,5 +106,5 @@ cacheSolve <- function(x, ...) {
 #       [1,]    1    3
 #       [2,]    2    4
 #       
-#       Conclusion: two functions work well. 
+#       Conclusion: two functions work well.
 
